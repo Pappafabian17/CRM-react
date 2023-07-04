@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel ANGEL",
+      "empresa": "Codigo Con Juan",
+      "email": "miguel@juan.com",
+      "telefono": "319381983",
+      "notas": "es un NASHE",
+      "id": 4
+    },
+    {
+      "nombre": "aa",
+      "empresa": "aa",
+      "email": "aa@aa.com",
+      "telefono": "233232",
+      "notas": "aa",
+      "id": 7
+    }
+  ]
+}
